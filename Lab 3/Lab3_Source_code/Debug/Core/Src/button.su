@@ -1,0 +1,4 @@
+button.c:27:6:debounceButtonBuffer1_pin	8	static
+button.c:33:6:button_reading	16	static
+button.c:60:15:is_button_pressed	16	static
+button.c:65:15:is_button_pressed_1s	16	static

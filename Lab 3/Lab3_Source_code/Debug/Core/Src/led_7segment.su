@@ -1,0 +1,2 @@
+led_7segment.c:3:6:enableMode	16	static
+led_7segment.c:39:6:display7SEG	16	static

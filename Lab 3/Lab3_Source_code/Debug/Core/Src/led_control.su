@@ -1,0 +1,7 @@
+led_control.c:15:6:timer_run_road1	8	static
+led_control.c:33:6:timer_run_road2	8	static
+led_control.c:51:6:resetTimer	16	static
+led_control.c:74:15:timer_flag_on	16	static
+led_control.c:85:6:updateLedBuffer	16	static
+led_control.c:91:6:update7SEG	16	static
+led_control.c:96:6:timer_run_4digits	8	static

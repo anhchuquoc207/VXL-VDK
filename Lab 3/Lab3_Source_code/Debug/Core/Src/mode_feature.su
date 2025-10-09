@@ -1,0 +1,13 @@
+mode_feature.c:17:6:ledOff	8	static
+mode_feature.c:26:6:button_2_value	16	static
+mode_feature.c:47:6:changeModeState	8	static
+mode_feature.c:74:6:timer_run_mode	4	static
+mode_feature.c:81:15:timer_mode_flag_on	16	static
+mode_feature.c:92:6:mode2State	8	static
+mode_feature.c:99:6:mode3State	8	static
+mode_feature.c:106:6:mode4State	8	static
+mode_feature.c:113:6:currentModeRun	8	static
+mode_feature.c:131:6:update7SEG_mode	16	static
+mode_feature.c:136:6:button_2_changed_value	16	static
+mode_feature.c:165:6:setValue	4	static
+mode_feature.c:188:6:timer_run_4digits_mode	8	static
