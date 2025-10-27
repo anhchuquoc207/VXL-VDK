@@ -1,0 +1,6 @@
+led_control.c:12:6:setUp	8	static
+led_control.c:20:6:blinkyLed0	8	static
+led_control.c:24:6:blinkyLed1	8	static
+led_control.c:28:6:blinkyLed2	8	static
+led_control.c:32:6:blinkyLed3	8	static
+led_control.c:36:6:blinkyLed4	8	static
