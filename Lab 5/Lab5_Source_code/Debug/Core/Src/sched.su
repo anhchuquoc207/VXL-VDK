@@ -1,0 +1,7 @@
+sched.c:16:9:get_available_ID	16	static
+sched.c:26:14:create_newTask	32	static
+sched.c:39:6:SCH_Init	16	static
+sched.c:50:6:SCH_Update	4	static
+sched.c:61:6:SCH_Add_Task	40	static
+sched.c:96:14:SCH_Delete_Task	24	static
+sched.c:107:6:SCH_Dispatch_Tasks	8	static
