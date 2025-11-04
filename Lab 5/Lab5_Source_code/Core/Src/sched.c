@@ -1,10 +1,3 @@
-/*
- * sched.c
- *
- *  Created on: Nov 10, 2024
- *      Author: admin
- */
-
 #include "sched.h"
 #include "main.h"
 // Task array with a maximum size defined
