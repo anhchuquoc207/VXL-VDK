@@ -1,10 +1,3 @@
-/*
- * sched.h
- *
- *  Created on: Nov 10, 2024
- *      Author: admin
- */
-
 #ifndef INC_SCHED_H_
 #define INC_SCHED_H_
 
@@ -21,9 +14,6 @@ typedef struct struct_Task{
 
     // Interval (ticks) between subsequent runs
     uint32_t Period;
-
-    // Incremented (by scheduler) when task is due to execute
-    uint8_t RunMe;
 
     // This is a hint to solve the question below
     uint32_t TaskID;
